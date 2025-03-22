@@ -22,8 +22,9 @@ selanjutnya di bawahnya terdapat list dari mahasiswa yang sudah terdaftar.
 alur pengunaan user :
 1. user menginputkan nim,nama, memilih kelamin, memilih IPK mengunakan slider.
 2. user dapat meng-click data yang mau diubah dari list mahasiswa yang terdaftar dibawah kolom input
-3a1. setelah di click user dapat melakukan update data mahasiswa
-3a2. setelah itu user dapat meng-click update dan data akan terupdate 
-3b1. setelah di click user dapat melakukan delete pada data mahasiswa yang dipilih
-3b2. user harus mengkonfirmasi dahulu apakah benar data ingin di delete
-3b3. setelah click yes maka data akan dihapus
+3. setelah di click user dapat melakukan update data mahasiswa
+4. setelah itu user dapat meng-click update dan data akan terupdate 
+5. user dapat meng-click data yang mau dihapus dari list mahasiswa yang terdaftar dibawah kolom input
+6. setelah di click user dapat melakukan delete pada data mahasiswa yang dipilih
+7. user harus mengkonfirmasi dahulu apakah benar data ingin di delete
+8. setelah click yes maka data akan dihapus
